@@ -1,0 +1,161 @@
+[class*='col-'] {
+    float: left;
+    width: 100%;
+}
+
+@media screen and (min-width:768px) {
+
+.col-sm-1 {
+    width: 8.33%
+}
+.col-sm-2 {
+    width: 16.66%
+}
+.col-sm-3 {
+    width: 24.99%
+}
+.col-sm-4 {
+    width: 33.29%
+}
+.col-sm-5 {
+    width: 41.62%
+}
+.col-sm-6 {
+    width: 49.95%
+}
+.col-sm-7 {
+    width: 58.28%
+}
+.col-sm-8 {
+    width: 66.61%
+}
+.col-sm-9 {
+    width: 74.94%
+}
+.col-sm-10 {
+    width: 83.27%
+}
+.col-sm-11 {
+    width: 91.6%
+}
+.col-sm-12 {
+    width: 99.93%
+}
+}
+@media screen and (min-width:1024px) {
+ section {
+        margin-left: 50px;
+    }
+.col-1 {
+    width: 8.33%
+}
+.col-2 {
+    width: 16.66%
+}
+.col-3 {
+    width: 24.99%
+}
+.col-4 {
+    width: 33.29%
+}
+.col-5 {
+    width: 41.62%
+}
+.col-6 {
+    width: 49.95%
+}
+.col-7 {
+    width: 58.28%
+}
+.col-8 {
+    width: 66.61%
+}
+.col-9 {
+    width: 74.94%
+}
+.col-10 {
+    width: 83.27%
+}
+.col-11 {
+    width: 91.6%
+}
+.col-12 {
+    width: 99.93%
+}
+   
+}
+
+
+.headercss {
+    text-align: center;
+    font-family: monospace;
+    background-color: transparent;
+    color: forestgreen;
+    height: 100px;
+    line-height: 50px;
+}
+
+.headerhl {
+    margin: 0;
+    padding: 0;
+}
+
+.pictures {
+    max-width: 100%; 
+    display:block; 
+}
+
+
+
+.navcss {
+    background-color: white;
+    padding-top: 0;
+    font-family: monospace;
+}
+
+.navulcss {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.navullicss {
+    height: 40px;
+    background-color: palevioletred;
+}
+
+.navulliacss {
+    color: ghostwhite;
+    padding: 20px;
+    line-height: 40px;
+}
+
+nav ul li:hover {background-color: yellowgreen}
+
+
+.sectioncss {
+    background-color: lightseagreen;
+    color: aliceblue;
+    font-family: monospace;
+   border-left: 1px solid blueviolet;
+    border-top: 1px solid blueviolet;
+    padding-left: 10px;
+    font-size: 100%;
+}
+
+
+.sectionoverallcss {
+    background-color: lightgoldenrodyellow;
+}
+
+section:hover {background-color: mediumpurple}
+
+.footercss {
+    clear: left;
+    height:50px;
+    line-height: 50px;
+    text-align: center;
+    font-family: monospace;
+    background-color: aliceblue;
+    color: rebeccapurple;
+}
